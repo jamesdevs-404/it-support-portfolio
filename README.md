@@ -14,11 +14,11 @@ Whether it’s troubleshooting a network outage, configuring systems, or assisti
 ## 🛠 Technical Skills
 - **Operating Systems**: Windows, macOS, Linux  
 - **Networking**: TCP/IP, DNS, DHCP, VPN  
-- **User & System Administration**: Active Directory, Microsoft 365 Admin, Google Workspace  
+- **User & System Administration**: Active Directory, Microsoft 365 Admin  
 - **Troubleshooting**: Hardware diagnostics, software configuration, performance optimization  
-- **Remote Support Tools**: TeamViewer, AnyDesk, RDP  
-- **Ticketing Systems**: Jira, Zendesk, Freshservice  
-- **Automation & Tools**: PowerShell, Excel (Macros), Batch scripting
+- **Remote Support Tools**: TeamViewer, AnyDesk, Quick Assist, Endpoint Central  
+- **Ticketing Systems**: Jira, Zendesk  
+- **Automation & Tools**: PowerShell, Excel (Macros)
 
 ---
 
