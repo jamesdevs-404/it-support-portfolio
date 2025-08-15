@@ -55,7 +55,3 @@ For IT Support staff responsible for offboarding employees in AD, email, and cor
 - Follow least privilege principle—revoke all access immediately.
 - Preserve critical data per company retention policies.
 - Only perform termination after HR authorization.
-
----
-
-**Last Updated:** 2025-08-15
