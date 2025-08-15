@@ -50,7 +50,7 @@ PowerShell script that integrates with Active Directory to streamline password r
 ## 📫 Contact Me
 - **Email**: deverajamesjoel@gmail.com  
 - **LinkedIn**: linkedin.com/in/james-joel-de-vera/
-- **GitHub**: github.com/jamesdevs-404
+- **Contact Number**: +639452741539
 ---
 
 > 💡 *“Your future is hidden in your daily routine.” * – Mike Murdock
