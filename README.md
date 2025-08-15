@@ -8,6 +8,7 @@ I’m an **IT Support Specialist** with **1 year of hands-on experience** helpin
 ## 🚀 About Me
 I’m passionate about solving IT problems before they become problems.  
 Whether it’s troubleshooting a network outage, configuring systems, or assisting non-technical users, I deliver clear solutions with a calm, professional approach.
+This portfolio contains real-world tasks and tools I’ve worked with as an IT Support Technician. It highlights my experience with Active Directory, ticketing systems, PowerShell, and troubleshooting user issues.
 
 ---
 
