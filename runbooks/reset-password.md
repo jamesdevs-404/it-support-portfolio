@@ -42,7 +42,7 @@ For IT Support staff with password reset privileges in ADUC or RSAT.
 
 ## **Sample Screenshot**
 Here’s an example screenshot showing the **Reset Password** dialog in ADUC:  
-![Reset Password Screenshot](../screenshots/reset-password.png)
+![Reset Password Screenshot](../images/reset-password.png)
 
 ---
 
@@ -50,7 +50,3 @@ Here’s an example screenshot showing the **Reset Password** dialog in ADUC:
 - Do not reuse previous passwords.
 - Report suspicious password reset requests to the security team.
 - Log all password resets in the ticketing system.
-
----
-
-**Last Updated:** 2025-08-15
