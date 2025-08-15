@@ -42,7 +42,7 @@ For IT Support staff authorized to manage user accounts in Active Directory User
 
 ## **Sample Screenshot**
 Here’s an example screenshot showing the **Unlock account** checkbox in ADUC:  
-![Unlock AD User Screenshot](../screenshots/unlock-ad-user.png)
+![Unlock AD User Screenshot](../images/unlock-ad-user.png)
 
 ---
 
