@@ -23,31 +23,6 @@ This portfolio contains real-world tasks and tools I’ve worked with as an IT S
 
 ---
 
-## 📂 Featured Projects
-
-### 1. **IT Knowledge Base Website**
-A centralized knowledge hub with common troubleshooting steps for faster resolution.
-
-**Tech Stack**: HTML, CSS, JavaScript  
-![Screenshot](assets/images/project1.png)
-
----
-
-### 2. **Hardware Inventory Tracker**
-A PowerShell + Excel solution for tracking IT assets, automating reports, and minimizing downtime.
-
-**Tech Stack**: PowerShell, Excel  
-![Screenshot](assets/images/project2.png)
-
----
-
-### 3. **Password Reset Automation Script**
-PowerShell script that integrates with Active Directory to streamline password reset requests.
-
-**Tech Stack**: PowerShell, Active Directory
-
----
-
 ## 📫 Contact Me
 - **Email**: deverajamesjoel@gmail.com  
 - **LinkedIn**: linkedin.com/in/james-joel-de-vera/
