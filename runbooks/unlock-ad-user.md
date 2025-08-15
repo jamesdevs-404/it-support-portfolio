@@ -40,10 +40,12 @@ For IT Support staff authorized to manage user accounts in Active Directory User
 
 ---
 
-## **Notes**
-- Always check **why** the account was locked (multiple failed login attempts, expired password, etc.).
-- For repeated lockouts, investigate Event Viewer for security events.
+## **Sample Screenshot**
+Here’s an example screenshot showing the **Unlock account** checkbox in ADUC:  
+![Unlock AD User Screenshot](../screenshots/unlock-ad-user.png)
 
 ---
 
-**Last Updated:** 2025-08-15
+## **Notes**
+- Always check **why** the account was locked (multiple failed login attempts, expired password, etc.).
+- For repeated lockouts, investigate Event Viewer for security events.
